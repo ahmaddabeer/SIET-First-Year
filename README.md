@@ -52,7 +52,7 @@ When I was in first year, getting papers from seniors was difficult — so I dec
   <img src="https://github.com/user-attachments/assets/2f8da575-8c6a-4a45-9e4f-343462c3428c"width="250"/>
 </p>
 <p align="center">
-  <b>NO Inter Net Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b>If No Inter Net Connection</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
  <hr>
 
