@@ -69,6 +69,6 @@ When I was in first year, getting papers from seniors was difficult — so I dec
 
 ### Option 1 – Direct APK Download
 - Download from the **Releases** section:  
-  [📥 Download App](https://github.com/ahmaddabeer/SIET-First-Year/blob/main/app-debug-androidTest.apk)
+  [📥 Download App](https://github.com/ahmaddabeer/SIET-First-Year/releases/tag/FirstRelease)
 
 
